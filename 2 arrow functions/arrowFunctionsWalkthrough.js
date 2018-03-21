@@ -9,6 +9,8 @@ var add = (x, y) => x + y;
 var sum = add(3, 2)
 sum;
 
+//if i'm not ON an object, class, or callback -> i am not an arrow function
+//due to hoisting --> all expressions are hoisted
 //One line Arrow functions 
 // - remove need for curly braces
 // - automatically return your line of code

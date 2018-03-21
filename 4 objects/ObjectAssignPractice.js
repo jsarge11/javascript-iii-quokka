@@ -21,6 +21,17 @@ var smurf = {
 let pt = Object.assign(person, thundercat)
 pt;
 
+var obj = {
+    name: "john",
+    age: 25
+  }
+var obj2 = { 
+
+};
+ var obj3 = Object.assign({ }, obj);
+  
+obj3;
+
 // We've permanently modified person, but it's better to make a copy.  So copy person then thundercat into a new empty object
 
 // Make the a copy of a person that is a smurf

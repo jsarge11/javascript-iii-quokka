@@ -179,5 +179,8 @@ let data = {
 
 // Lets use destructuring to grab the results off our data
 // Lets find the 3rd person in the list
+
+var third = data.results[9].starships[1];
+third;
 // Let's use destructing to get the third person's name, mass, and gender
 // Lets start with the base data object then get to Obiwans's second starship

@@ -1,6 +1,8 @@
 ## Classes
 
 ### Classes are a construct to help us build objects
+### Classes are shortcuts for making objects
+#### Homogeny is what we want in arrays of objects
 
 The class syntax allows us to define a template and then use that template repeatedly.
 

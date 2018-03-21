@@ -1,5 +1,6 @@
 ## Higher Order Functions, Reducing For Loops
-Many of the for loops that we write are structured the same way every time.  We can save ourselves a lot of time by using higher order functions instead.  There are 4 patterns of for loops we are going to be addressing for our higher order functions.
+Many of the for loops that we write are structured the same way every time.  We can save ourselves a lot of time by using higher order functions instead.  There are 4 patterns of for loops we are going to be addressing for our higher order functions.  
+### Higher order functions are fancy names for functions that use callbacks
 
 ### forEach 
 
